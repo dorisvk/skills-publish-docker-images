@@ -28,3 +28,4 @@ jobs:
           tags: |
             ghcr.io/dorisvk/skills-publish-docker-images/stackoverflown:main
             ghcr.io/dorisvk/skills-publish-docker-images/stackoverflown:${{ github.sha }}
+#
